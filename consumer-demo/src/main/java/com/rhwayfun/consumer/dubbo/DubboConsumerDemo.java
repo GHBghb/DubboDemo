@@ -4,14 +4,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.rhwayfun.service.HelloService;
 
-/**
- * 
- * @ClassName: DubboConsumerDemo 
- * @Description: TODO
- * @author ZhongCB
- * @date 2016年8月5日 下午4:14:58 
- *
- */
+
 public class DubboConsumerDemo {
 
 	public static void main(String[] args) {
